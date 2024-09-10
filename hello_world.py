@@ -3,3 +3,6 @@ def print_hello():
 
 if_name_=='_main_':
 	print_hello()
+	
+print('hello!')
+print('sujin')
